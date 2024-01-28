@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @EpicXKillz
-- 👀 I’m interested in music and writing
-- 🌱 I’m currently learning calculus
-- 💞️ I’m looking to collaborate on projects
+
 - 📫 How to reach me: angelodeasis18@gmail.com
 
 <!---
